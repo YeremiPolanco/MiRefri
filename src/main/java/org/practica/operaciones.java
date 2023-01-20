@@ -23,7 +23,7 @@ public class operaciones {
         System.out.println("la suma es: " + suma);
         System.out.println("la resta es: " + resta);
         System.out.println("la multiplicacion es: " + multi);
-        System.out.println("la divicion es: " + divi);
+        System.out.println("la division es: " + divi);
 
     }
 }
